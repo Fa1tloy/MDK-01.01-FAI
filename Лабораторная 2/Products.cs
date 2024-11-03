@@ -22,7 +22,7 @@ namespace Лабораторная_2
         }
         public void Setprice( double v)
         {
-            v = valueproduct;
+            v = priceproduct;
         }
         public Products(string NAMESS,double PR ) 
         {
