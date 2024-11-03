@@ -12,7 +12,7 @@ namespace Лабораторная_2
         private string product_name;
         private double valueproduct;
 
-        public void getnames(string n)
+        public void Setnames(string n)
         {
             product_name = n;
         }
