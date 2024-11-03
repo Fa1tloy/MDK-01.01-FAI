@@ -18,7 +18,7 @@ namespace Лабораторная_2
         Dictionary<Product_groups_of_products, List<Sale>> data;
         public void ADDdata(int quantity_2, int date_2, Products product_2)
         {
-            dannie.Add(quantity_2 = 2, date_2 = 6,);
+            data.Add(quantity_2 = 2, date_2 = 6,);
         }
     }
    
