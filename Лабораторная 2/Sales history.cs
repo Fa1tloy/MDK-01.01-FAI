@@ -15,8 +15,8 @@ namespace Лабораторная_2
     }
     internal class Sales_history
     {
-        Dictionary<Product_groups_of_products, List<Sale>> dannie;
-        public void ADDdanie(int quantity_2, int date_2, Products product_2)
+        Dictionary<Product_groups_of_products, List<Sale>> data;
+        public void ADDdata(int quantity_2, int date_2, Products product_2)
         {
             dannie.Add(quantity_2 = 2, date_2 = 6,);
         }
