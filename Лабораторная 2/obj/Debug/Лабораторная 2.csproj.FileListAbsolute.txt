@@ -1,0 +1,2 @@
+C:\Users\ITПапа\Source\Repos\Fa1tloy\MDK-01.01-FAI\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.AssemblyReference.cache
+C:\Users\ITПапа\Source\Repos\Fa1tloy\MDK-01.01-FAI\Лабораторная 2\obj\Debug\Лабораторная 2.csproj.CoreCompileInputs.cache

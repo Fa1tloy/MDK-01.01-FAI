@@ -10,7 +10,7 @@ namespace Лабораторная_2
     public class Products
     {
         private string product_name;
-        private double valueproduct;
+        private double priceproduct;
 
         public void Setnames(string n)
         {
@@ -20,14 +20,14 @@ namespace Лабораторная_2
         {
             return product_name;
         }
-        public void Setvalue( double v)
+        public void Setprice( double v)
         {
             v = valueproduct;
         }
         public Products(string NAMESS,double PR ) 
         {
             product_name = NAMESS ;
-            valueproduct = PR ;
+            priceproduct = PR ;
         }
         
 
